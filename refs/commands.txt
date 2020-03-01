@@ -2,6 +2,8 @@
 
 > ng --version
 
-> ng new <> --create-application=false
+> ng new <workspace_name> --create-application=false
+
+> cd <workspace_name>
 
 > ng generate application <app_name>
