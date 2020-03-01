@@ -1,0 +1,7 @@
+> npm install @angular/cli@8 -g
+
+> ng --version
+
+> ng new <> --create-application=false
+
+> ng generate application <app_name>
